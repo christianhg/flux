@@ -1,0 +1,9 @@
+bower_components
+build
+dist
+.DS_STORE
+.idea
+node_modules
+.sass-cache
+Thumbs.db
+npm-debug.log
